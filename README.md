@@ -54,4 +54,4 @@ tmux
 
 ## Shell
 
-Auto-detects default shell: nu > zsh > $SHELL
+Auto-detects default shell: zsh > $SHELL
